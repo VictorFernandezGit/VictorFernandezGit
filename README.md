@@ -11,10 +11,12 @@
                                                                                                   
 ```
 
-## Hi, I'm Victor
-
-Computer Science student at University of Florida</br>
-Software Engineer with a focus in ML & Ai</br>
+💻 Computer Science Student | Aspiring ML Engineer</br>
+🧠 ADHD-fueled problem solver | Pixel-perfect dev</br>
+🔐 Former security researcher (HackerOne, Bugcrowd)</br>
+⚙️ Builder of tools, automator of marketing, student of AI</br>
+💡 Projects: snake-ai, monkeypaw, self-adapting-landing</br>
+📍 Nashville, TN | Always shipping, always learning</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor.f_v1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-fernandez171) 
