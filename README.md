@@ -9,11 +9,8 @@
 ```
 
 💻 Computer Science Student | Aspiring ML Engineer</br>
-🧠 ADHD-fueled problem solver | Pixel-perfect dev</br>
-🔐 Former security researcher (HackerOne, Bugcrowd)</br>
-⚙️ Builder of tools, automator of marketing, student of AI</br>
 💡 Projects: snake-ai, monkeypaw, self-adapting-landing</br>
-📍 Nashville, TN | Always shipping, always learning</br>
+📍 Nashville, TN</br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
