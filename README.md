@@ -1,11 +1,5 @@
 ```
- __     ___      _               _____                               _          
- \ \   / (_) ___| |_ ___  _ __  |  ______ _ __ _ __   __ _ _ __   __| | ___ ____
-  \ \ / /| |/ __| __/ _ \| '__| | |_ / _ | '__| '_ \ / _` | '_ \ / _` |/ _ |_  /
-   \ V / | | (__| || (_) | |    |  _|  __| |  | | | | (_| | | | | (_| |  __// / 
-    \_/  |_|\___|\__\___/|_|    |_|  \___|_|  |_| |_|\__,_|_| |_|\__,_|\___/___|
-                                                                                                                                                                                  
-                                                                                                  
+                                                                                          
 ```
 
 💻 Computer Science Student | Aspiring ML Engineer</br>
@@ -28,10 +22,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=VictorFernandezGit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFernandezGit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VictorFernandezGit&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=VictorFernandezGit&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
